@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fluid dynamics | Bethany Lusch, PhD</title>
+    <link>https://bethanyl.github.io/tag/fluid-dynamics/</link>
+      <atom:link href="https://bethanyl.github.io/tag/fluid-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>fluid dynamics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2020 22:13:47 -0500</lastBuildDate>
+    <image>
+      <url>https://bethanyl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>fluid dynamics</title>
+      <link>https://bethanyl.github.io/tag/fluid-dynamics/</link>
+    </image>
+    
+    <item>
+      <title>Accelerating RANS Simulations Using A Data-Driven Framework for Eddy-Viscosity Emulation</title>
+      <link>https://bethanyl.github.io/publication/accelerating-rans-simulations/</link>
+      <pubDate>Thu, 21 May 2020 22:13:47 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/accelerating-rans-simulations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>traumatic brain injury | Bethany Lusch, PhD</title>
+    <link>https://bethanyl.github.io/tag/traumatic-brain-injury/</link>
+      <atom:link href="https://bethanyl.github.io/tag/traumatic-brain-injury/index.xml" rel="self" type="application/rss+xml" />
+    <description>traumatic brain injury</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Dec 2016 22:53:23 -0500</lastBuildDate>
+    <image>
+      <url>https://bethanyl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>traumatic brain injury</title>
+      <link>https://bethanyl.github.io/tag/traumatic-brain-injury/</link>
+    </image>
+    
+    <item>
+      <title>Modeling cognitive deficits following neurodegenerative diseases and traumatic brain injuries with deep convolutional neural networks</title>
+      <link>https://bethanyl.github.io/publication/modeling-cognitive-deficits/</link>
+      <pubDate>Tue, 13 Dec 2016 22:53:23 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/modeling-cognitive-deficits/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

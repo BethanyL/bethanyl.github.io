@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Bethany Lusch, PhD</title>
+    <link>https://bethanyl.github.io/publication-type/2/</link>
+      <atom:link href="https://bethanyl.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2020 21:25:58 -0500</lastBuildDate>
+    <image>
+      <url>https://bethanyl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://bethanyl.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Time-series learning of latent-space dynamics for reduced-order model closure</title>
+      <link>https://bethanyl.github.io/publication/time-series-learning/</link>
+      <pubDate>Mon, 27 Jan 2020 21:25:58 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/time-series-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using recurrent neural networks for nonlinear component computation in advection-dominated reduced-order models</title>
+      <link>https://bethanyl.github.io/publication/using-recurrent-neural-networks/</link>
+      <pubDate>Fri, 01 Nov 2019 22:34:18 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/using-recurrent-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven discovery of coordinates andgoverning equations</title>
+      <link>https://bethanyl.github.io/publication/data-driven-discovery/</link>
+      <pubDate>Mon, 21 Oct 2019 22:04:29 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/data-driven-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for universal linear embeddings of nonlinear dynamics</title>
+      <link>https://bethanyl.github.io/publication/deep-learning-for-universal-linear-embeddings/</link>
+      <pubDate>Fri, 23 Nov 2018 22:48:46 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/deep-learning-for-universal-linear-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling cognitive deficits following neurodegenerative diseases and traumatic brain injuries with deep convolutional neural networks</title>
+      <link>https://bethanyl.github.io/publication/modeling-cognitive-deficits/</link>
+      <pubDate>Tue, 13 Dec 2016 22:53:23 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/modeling-cognitive-deficits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring Connectivity in Networked Dynamical Systems: Challenges Using Granger Causality</title>
+      <link>https://bethanyl.github.io/publication/inferring-connectivity/</link>
+      <pubDate>Tue, 27 Sep 2016 23:04:44 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/inferring-connectivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Submodular Hamming Metrics</title>
+      <link>https://bethanyl.github.io/publication/submodular-hamming-metrics/</link>
+      <pubDate>Mon, 02 Nov 2015 23:11:36 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/submodular-hamming-metrics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

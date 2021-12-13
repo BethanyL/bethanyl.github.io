@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro D. Maia | Bethany Lusch, PhD</title>
+    <link>https://bethanyl.github.io/author/pedro-d.-maia/</link>
+      <atom:link href="https://bethanyl.github.io/author/pedro-d.-maia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedro D. Maia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Sep 2016 23:04:44 -0500</lastBuildDate>
+    <image>
+      <url>https://bethanyl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Pedro D. Maia</title>
+      <link>https://bethanyl.github.io/author/pedro-d.-maia/</link>
+    </image>
+    
+    <item>
+      <title>Inferring Connectivity in Networked Dynamical Systems: Challenges Using Granger Causality</title>
+      <link>https://bethanyl.github.io/publication/inferring-connectivity/</link>
+      <pubDate>Tue, 27 Sep 2016 23:04:44 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/inferring-connectivity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

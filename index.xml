@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bethany Lusch, PhD</title>
+    <link>https://bethanyl.github.io/</link>
+      <atom:link href="https://bethanyl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bethany Lusch, PhD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2020 20:09:58 -0500</lastBuildDate>
+    <image>
+      <url>https://bethanyl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bethany Lusch, PhD</title>
+      <link>https://bethanyl.github.io/</link>
+    </image>
+    
+    <item>
+      <title>MIC 2020</title>
+      <link>https://bethanyl.github.io/talk/mic-2020/</link>
+      <pubDate>Tue, 02 Jun 2020 20:09:58 -0500</pubDate>
+      <guid>https://bethanyl.github.io/talk/mic-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIAM Mathematics 2020</title>
+      <link>https://bethanyl.github.io/talk/siam-mathematics-2020/</link>
+      <pubDate>Tue, 02 Jun 2020 19:47:52 -0500</pubDate>
+      <guid>https://bethanyl.github.io/talk/siam-mathematics-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating RANS Simulations Using A Data-Driven Framework for Eddy-Viscosity Emulation</title>
+      <link>https://bethanyl.github.io/publication/accelerating-rans-simulations/</link>
+      <pubDate>Thu, 21 May 2020 22:13:47 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/accelerating-rans-simulations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Neural Network Architecture Search for Geophysical Emulation</title>
+      <link>https://bethanyl.github.io/publication/recurrent-neural-network/</link>
+      <pubDate>Fri, 24 Apr 2020 21:05:09 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/recurrent-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Argonne AI HPC Seminar</title>
+      <link>https://bethanyl.github.io/talk/argonne-ai-hpc-seminar/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://bethanyl.github.io/talk/argonne-ai-hpc-seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced-order modeling of advection-dominatedsystems with recurrent neural networks andconvolutional autoencoders</title>
+      <link>https://bethanyl.github.io/publication/reduced-order-modeling/</link>
+      <pubDate>Tue, 04 Feb 2020 21:34:17 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/reduced-order-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIAM Parallel Processing</title>
+      <link>https://bethanyl.github.io/talk/siam-parallel-processing/</link>
+      <pubDate>Sun, 02 Feb 2020 20:11:08 -0500</pubDate>
+      <guid>https://bethanyl.github.io/talk/siam-parallel-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-series learning of latent-space dynamics for reduced-order model closure</title>
+      <link>https://bethanyl.github.io/publication/time-series-learning/</link>
+      <pubDate>Mon, 27 Jan 2020 21:25:58 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/time-series-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MELA: A visual analytics tool for studying multifidelity HPC system logs</title>
+      <link>https://bethanyl.github.io/publication/mela/</link>
+      <pubDate>Fri, 22 Nov 2019 21:44:10 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/mela/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Models for Global CoordinateTransformations that Linearize PDEs</title>
+      <link>https://bethanyl.github.io/publication/deep-learning-models/</link>
+      <pubDate>Mon, 11 Nov 2019 21:56:48 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/deep-learning-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using recurrent neural networks for nonlinear component computation in advection-dominated reduced-order models</title>
+      <link>https://bethanyl.github.io/publication/using-recurrent-neural-networks/</link>
+      <pubDate>Fri, 01 Nov 2019 22:34:18 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/using-recurrent-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven discovery of coordinates andgoverning equations</title>
+      <link>https://bethanyl.github.io/publication/data-driven-discovery/</link>
+      <pubDate>Mon, 21 Oct 2019 22:04:29 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/data-driven-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for universal linear embeddings of nonlinear dynamics</title>
+      <link>https://bethanyl.github.io/publication/deep-learning-for-universal-linear-embeddings/</link>
+      <pubDate>Fri, 23 Nov 2018 22:48:46 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/deep-learning-for-universal-linear-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling cognitive deficits following neurodegenerative diseases and traumatic brain injuries with deep convolutional neural networks</title>
+      <link>https://bethanyl.github.io/publication/modeling-cognitive-deficits/</link>
+      <pubDate>Tue, 13 Dec 2016 22:53:23 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/modeling-cognitive-deficits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring Connectivity in Networked Dynamical Systems: Challenges Using Granger Causality</title>
+      <link>https://bethanyl.github.io/publication/inferring-connectivity/</link>
+      <pubDate>Tue, 27 Sep 2016 23:04:44 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/inferring-connectivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape Constrained Tensor Decompositions usingSparse Representations in Over-Complete Libraries</title>
+      <link>https://bethanyl.github.io/publication/shape-constrained-tensor-decompositions/</link>
+      <pubDate>Tue, 16 Aug 2016 22:20:30 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/shape-constrained-tensor-decompositions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Submodular Hamming Metrics</title>
+      <link>https://bethanyl.github.io/publication/submodular-hamming-metrics/</link>
+      <pubDate>Mon, 02 Nov 2015 23:11:36 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/submodular-hamming-metrics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

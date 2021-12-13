@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autoencoders | Bethany Lusch, PhD</title>
+    <link>https://bethanyl.github.io/tag/autoencoders/</link>
+      <atom:link href="https://bethanyl.github.io/tag/autoencoders/index.xml" rel="self" type="application/rss+xml" />
+    <description>Autoencoders</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Feb 2020 21:34:17 -0500</lastBuildDate>
+    <image>
+      <url>https://bethanyl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Autoencoders</title>
+      <link>https://bethanyl.github.io/tag/autoencoders/</link>
+    </image>
+    
+    <item>
+      <title>Reduced-order modeling of advection-dominatedsystems with recurrent neural networks andconvolutional autoencoders</title>
+      <link>https://bethanyl.github.io/publication/reduced-order-modeling/</link>
+      <pubDate>Tue, 04 Feb 2020 21:34:17 -0500</pubDate>
+      <guid>https://bethanyl.github.io/publication/reduced-order-modeling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
